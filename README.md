@@ -1,4 +1,4 @@
-# C Programming Repository
+# 😊 C Programming Repository 😊
 
 Welcome to the **C Programming** repository! This repository contains a collection of C programs that I have practiced and developed. It includes a variety of scripts ranging from beginner to advanced level topics, such as data types, loops, functions, pointers, and more.
 
@@ -45,7 +45,7 @@ Feel free to contribute by submitting pull requests or suggesting improvements. 
 This repository is open for educational purposes. Feel free to use and modify the code as needed.
 
 ## Contact
-Developed by mdshahriaalam2.
+Developed by 🧨🧨  **mdshahriaalam2**
 
 Happy coding and learning C programming!
 
