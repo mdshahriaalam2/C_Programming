@@ -15,4 +15,4 @@ The purpose of this repository is to provide a collection of C programming examp
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/C_Programming.git
+   git clone https://github.com/mdshahriaalam2/C_Programming.git
