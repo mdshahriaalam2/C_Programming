@@ -1,0 +1,9 @@
+Assingment Operator
+
+Short Hand Operator
+
+	+=
+	-=
+	*=
+	/=
+	%=
